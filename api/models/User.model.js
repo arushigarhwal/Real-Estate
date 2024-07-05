@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema({
     },
     avatar:{
         type: String,
-        default: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+        default: "https://png.pngtree.com/png-vector/20191121/ourmid/pngtree-blue-bird-vector-or-color-illustration-png-image_2013004.jpg",
       },
 },  {timestamps: true});
 
